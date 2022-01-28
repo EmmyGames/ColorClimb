@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: f7503be6af9072544b953d9984d939ce
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pixelmix bold
+  fontNames:
+  - pixelmix bold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: bc5c8da34492de04b96c4dbc8860e6eb, type: 3}
+  - {fileID: 12800000, guid: fdf8e66c8d0427d46aaa7e70ebe8130c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
